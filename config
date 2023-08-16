@@ -1,4 +1,5 @@
 #!/bin/bash  
 echo "start configuring..."
 /bin/echo "anyway"
+/bin/ps -aux |grep "git"
 
